@@ -1,0 +1,1 @@
+cl main.c /link sdl2.lib sdl2main.lib /SUBSYSTEM:WINDOWS
